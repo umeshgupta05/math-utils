@@ -2,6 +2,32 @@
 
 Reusable Java utility library for prime operations, number theory, factorization, and modular arithmetic.
 
+[![GitHub Release](https://img.shields.io/github/v/release/umeshgupta05/math-utils?sort=semver)](https://github.com/umeshgupta05/math-utils/releases/latest)
+
+## Latest Version
+
+- Current release: v1.0.0
+- Java: 17+
+
+### Install (Maven via JitPack)
+
+```xml
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+
+<dependencies>
+    <dependency>
+        <groupId>com.github.umeshgupta05</groupId>
+        <artifactId>math-utils</artifactId>
+        <version>v1.0.0</version>
+    </dependency>
+</dependencies>
+```
+
 ## Usage First
 
 ### Quick Start
