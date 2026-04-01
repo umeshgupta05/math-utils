@@ -3,12 +3,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.mathutils</groupId>
+  <groupId>io.github.umeshgupta05</groupId>
   <artifactId>math-utils</artifactId>
   <version>1.0.0</version>
   <name>Math Utils</name>
   <description>Reusable Java math utility library for prime, number theory, factors, and modular arithmetic operations.</description>
-  <url>https://github.com/YOUR_GITHUB_USERNAME/math-utils</url>
+  <url>https://github.com/umeshgupta05/math-utils</url>
   <packaging>jar</packaging>
 
   <licenses>
@@ -21,16 +21,16 @@
 
   <developers>
     <developer>
-      <id>YOUR_GITHUB_USERNAME</id>
-      <name>YOUR_NAME</name>
-      <url>https://github.com/YOUR_GITHUB_USERNAME</url>
+      <id>umeshgupta05</id>
+      <name>Umesh Gupta</name>
+      <url>https://github.com/umeshgupta05</url>
     </developer>
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.com/YOUR_GITHUB_USERNAME/math-utils.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/YOUR_GITHUB_USERNAME/math-utils.git</developerConnection>
-    <url>https://github.com/YOUR_GITHUB_USERNAME/math-utils</url>
+    <connection>scm:git:https://github.com/umeshgupta05/math-utils.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/umeshgupta05/math-utils.git</developerConnection>
+    <url>https://github.com/umeshgupta05/math-utils</url>
     <tag>HEAD</tag>
   </scm>
 
